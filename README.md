@@ -2983,6 +2983,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Zehor Lahlah](https://github.com/zehor-l)
   - [ziphozenkosi ncayiyana](https://github.com/Ziphozenkosimthombe)
   - [Zoheb Alli Khan](https://github.com/ZohebMOPO)
+  -  [Rishika Verma](https://github.com/Rishikaa07)
 
 - ### **0-9**
 
